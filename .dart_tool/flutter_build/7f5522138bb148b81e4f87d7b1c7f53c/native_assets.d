@@ -1,0 +1,1 @@
+ C:\\Users\\Administrator\\Desktop\\SukanNow\\.dart_tool\\flutter_build\\7f5522138bb148b81e4f87d7b1c7f53c\\native_assets.yaml: 

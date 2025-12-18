@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.fluttercandies.image_editor.image_editor_common-release-25:/layout-v21/notification_action.xml",
+        "source": "com.fluttercandies.image_editor.image_editor_common-core-1.13.1-15:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.fluttercandies.image_editor.image_editor_common-release-25:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.fluttercandies.image_editor.image_editor_common-core-1.13.1-15:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.fluttercandies.image_editor.image_editor_common-release-25:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.fluttercandies.image_editor.image_editor_common-core-1.13.1-15:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.fluttercandies.image_editor.image_editor_common-release-25:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.fluttercandies.image_editor.image_editor_common-core-1.13.1-15:/layout-v21/notification_template_custom_big.xml"
+    }
+]

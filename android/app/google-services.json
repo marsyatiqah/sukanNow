@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "349911580596",
+    "firebase_url": "https://sukannow-4c072-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sukannow-4c072",
+    "storage_bucket": "sukannow-4c072.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349911580596:android:6eec3b4274e3a6cdbabce1",
+        "android_client_info": {
+          "package_name": "com.example.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349911580596-bk7947jngce9qvhkjoseb7qmaa3oipj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHLimqUk2KslNDob7VimIYpLunOuNI7PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349911580596-bk7947jngce9qvhkjoseb7qmaa3oipj1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "349911580596-sn3npuqs8lqjc0ru5g2rfv03vicd5178.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.apps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
