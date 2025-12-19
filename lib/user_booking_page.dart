@@ -165,7 +165,7 @@ class _BookingPageState extends State<BookingPage> {
                     borderSide: BorderSide(color: Colors.deepOrange), // Change the focused line color
                   ),
                 ),
-                value: _selectedCourt,
+                initialValue: _selectedCourt,
                 onChanged: (String? newValue) {
                   setState(() {
                     _selectedCourt = newValue;
